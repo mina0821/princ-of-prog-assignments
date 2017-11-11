@@ -1,0 +1,12 @@
+		/*For Testing.java
+                        rest of the code is stored at test2.txt
+		 *compiler said the test class exceed the bytes limit
+		 *
+		 *the automation of the code is also attached
+		 *auto.py  -- generates 60 class instances
+		 *test1.py -- raising 60 instances to the power of -1,0,1,2,3
+		 *         -- store the result in the array content
+		 *         -- ie. content[0][0] = matrix m01 to the power of -1
+		 *verify.py -- verify the result in content matches the result
+		 *test2.py -- generates 6*6*10*5 test cases
+		 */
